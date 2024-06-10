@@ -1,0 +1,10 @@
+A:\01 Testing\Tik Tak Game\bin\Debug\Tik Tak Game.exe.config
+A:\01 Testing\Tik Tak Game\bin\Debug\Tik Tak Game.exe
+A:\01 Testing\Tik Tak Game\bin\Debug\Tik Tak Game.pdb
+A:\01 Testing\Tik Tak Game\obj\Debug\Tik Tak Game.csproj.AssemblyReference.cache
+A:\01 Testing\Tik Tak Game\obj\Debug\Tik_Tak_Game.Form1.resources
+A:\01 Testing\Tik Tak Game\obj\Debug\Tik_Tak_Game.Properties.Resources.resources
+A:\01 Testing\Tik Tak Game\obj\Debug\Tik Tak Game.csproj.GenerateResource.cache
+A:\01 Testing\Tik Tak Game\obj\Debug\Tik Tak Game.csproj.CoreCompileInputs.cache
+A:\01 Testing\Tik Tak Game\obj\Debug\Tik Tak Game.exe
+A:\01 Testing\Tik Tak Game\obj\Debug\Tik Tak Game.pdb

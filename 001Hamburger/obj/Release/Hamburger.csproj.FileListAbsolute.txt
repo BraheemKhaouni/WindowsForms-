@@ -1,0 +1,10 @@
+A:\01 Testing\Hamburger\bin\Release\Hamburger.exe.config
+A:\01 Testing\Hamburger\bin\Release\Hamburger.exe
+A:\01 Testing\Hamburger\bin\Release\Hamburger.pdb
+A:\01 Testing\Hamburger\obj\Release\Hamburger.csproj.AssemblyReference.cache
+A:\01 Testing\Hamburger\obj\Release\Hamburger.Hamburger.resources
+A:\01 Testing\Hamburger\obj\Release\Hamburger.Properties.Resources.resources
+A:\01 Testing\Hamburger\obj\Release\Hamburger.csproj.GenerateResource.cache
+A:\01 Testing\Hamburger\obj\Release\Hamburger.csproj.CoreCompileInputs.cache
+A:\01 Testing\Hamburger\obj\Release\Hamburger.exe
+A:\01 Testing\Hamburger\obj\Release\Hamburger.pdb
