@@ -1,0 +1,10 @@
+A:\01 Testing\004 Small Calculator\bin\Debug\004 Small Calculator.exe.config
+A:\01 Testing\004 Small Calculator\bin\Debug\004 Small Calculator.exe
+A:\01 Testing\004 Small Calculator\bin\Debug\004 Small Calculator.pdb
+A:\01 Testing\004 Small Calculator\obj\Debug\004 Small Calculator.csproj.AssemblyReference.cache
+A:\01 Testing\004 Small Calculator\obj\Debug\_004_Small_Calculator.Form1.resources
+A:\01 Testing\004 Small Calculator\obj\Debug\_004_Small_Calculator.Properties.Resources.resources
+A:\01 Testing\004 Small Calculator\obj\Debug\004 Small Calculator.csproj.GenerateResource.cache
+A:\01 Testing\004 Small Calculator\obj\Debug\004 Small Calculator.csproj.CoreCompileInputs.cache
+A:\01 Testing\004 Small Calculator\obj\Debug\004 Small Calculator.exe
+A:\01 Testing\004 Small Calculator\obj\Debug\004 Small Calculator.pdb
